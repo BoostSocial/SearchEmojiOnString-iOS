@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0720"
+   LastUpgradeVersion = "0930"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,23 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C048F07A1C3EB734007B5A81"
-               BuildableName = "EmojiString.app"
-               BlueprintName = "EmojiString"
-               ReferencedContainer = "container:EmojiString.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7A7AA2601C537EE10046BC16"
-               BuildableName = "EmojiStringTests.xctest"
-               BlueprintName = "EmojiStringTests"
+               BlueprintIdentifier = "3F19028C20BD0BD4001E906F"
+               BuildableName = "EmojiStringFramework.framework"
+               BlueprintName = "EmojiStringFramework"
                ReferencedContainer = "container:EmojiString.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -42,26 +28,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7A7AA2601C537EE10046BC16"
-               BuildableName = "EmojiStringTests.xctest"
-               BlueprintName = "EmojiStringTests"
-               ReferencedContainer = "container:EmojiString.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7A7AA2601C537EE10046BC16"
-            BuildableName = "EmojiStringTests.xctest"
-            BlueprintName = "EmojiStringTests"
-            ReferencedContainer = "container:EmojiString.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -78,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7A7AA2601C537EE10046BC16"
-            BuildableName = "EmojiStringTests.xctest"
-            BlueprintName = "EmojiStringTests"
+            BlueprintIdentifier = "3F19028C20BD0BD4001E906F"
+            BuildableName = "EmojiStringFramework.framework"
+            BlueprintName = "EmojiStringFramework"
             ReferencedContainer = "container:EmojiString.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -96,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C048F07A1C3EB734007B5A81"
-            BuildableName = "EmojiString.app"
-            BlueprintName = "EmojiString"
+            BlueprintIdentifier = "3F19028C20BD0BD4001E906F"
+            BuildableName = "EmojiStringFramework.framework"
+            BlueprintName = "EmojiStringFramework"
             ReferencedContainer = "container:EmojiString.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
